@@ -94,7 +94,7 @@ Fully responsive and works seamlessly across all devices:
 
 - **Link Generation**: < 3 seconds average
 - **Uptime**: 99.9% availability
-- **Supported Formats**: All TeraBox file types
+- **Supported Formats**: All file types
 - **Browser Support**: All modern browsers
 - **Mobile Optimization**: Fully responsive design
 
