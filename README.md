@@ -1,5 +1,3 @@
-# TeraBox Downloader - Free Online Tool
-
 
 ## 🚀 Features
 
