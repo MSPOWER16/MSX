@@ -1,46 +1,4 @@
 
-## 🚀 Features
-
-- **Lightning Fast**: Generate direct download links from TeraBox in seconds
-- **100% Free**: No hidden fees, subscriptions, or premium features
-- **No Registration**: Start using immediately without creating an account
-- **Mobile Friendly**: Works perfectly on desktop, tablet, and mobile devices
-- **All File Types**: Download videos, documents, images, and any file type
-- **Secure & Private**: Your files and personal information are never stored
-- **No Speed Limits**: Bypass TeraBox's download speed restrictions
-
-## 🎯 What is TeraBox?
-
-TeraBox is a popular cloud storage service that allows users to store, share, and access files online. While it offers generous free storage space, downloading shared files often requires:
-- Creating a TeraBox account
-- Installing their mobile app
-- Dealing with speed limitations
-- Navigating through ads and redirects
-
-Our TeraBox Downloader eliminates all these barriers, providing instant access to your files.
-
-## 📖 How to Use
-
-### Simple 4-Step Process:
-
-1. **Copy TeraBox Link**: Copy the TeraBox file or folder link you want to download
-2. **Paste in Downloader**: Paste the link into our input field
-3. **Generate Link**: Click the "Generate Download Link" button
-4. **Download Files**: Click the download button to save files to your device
-
-### Supported Link Formats:
-- `https://terabox.com/s/...`
-- `https://1024terabox.com/s/...`
-- `https://teraboxapp.com/s/...`
-
-## 💻 Technical Stack
-
-- **Framework**: Next.js 14 with Edge Runtime
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
-- **UI Components**: Radix UI
-- **Icons**: Font Awesome
-- **Internationalization**: Multi-language support (i18n)
 
 ## 🛠️ Installation & Setup
 
