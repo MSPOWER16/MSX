@@ -90,18 +90,6 @@ Fully responsive and works seamlessly across all devices:
 - **No Tracking**: We don't track your downloads or usage patterns
 - **HTTPS Only**: All communication is encrypted
 
-
-
-## 🔄 Updates & Changelog
-
-### Latest Updates
-- Enhanced mobile responsiveness
-- Improved error handling
-- Added support for more TeraBox URL formats
-- Optimized download speed
-- Added multi-language support
-
-
 ## 📊 Performance
 
 - **Link Generation**: < 3 seconds average
