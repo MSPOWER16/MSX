@@ -101,16 +101,6 @@ Fully responsive and works seamlessly across all devices:
 - Optimized download speed
 - Added multi-language support
 
-## 🌟 Why Choose Our TeraBox Downloader?
-
-1. **No Account Required**: Unlike TeraBox's official app, you don't need to sign up
-2. **No App Installation**: Works directly in your browser
-3. **No Speed Limits**: Download at full speed without restrictions
-4. **All Devices**: Works on computers, tablets, and phones
-5. **Always Free**: No premium features or hidden costs
-6. **Secure**: Your privacy and data are protected
-7. **Fast**: Instant link generation and downloads
-8. **Reliable**: High uptime and consistent performance
 
 ## 📊 Performance
 
