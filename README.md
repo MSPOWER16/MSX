@@ -46,7 +46,7 @@ Converts a TeraBox sharing link to a direct download link.
 **Request Body:**
 ```json
 {
-  "url": "https://terabox.com/s/1234567890"
+  "url": "https://exmaple.com/s/1234567890"
 }
 ```
 
@@ -65,7 +65,7 @@ Converts a TeraBox sharing link to a direct download link.
 **Error Response:**
 ```json
 {
-  "error": "Invalid TeraBox URL"
+  "error": "Invalid URL"
 }
 ```
 
