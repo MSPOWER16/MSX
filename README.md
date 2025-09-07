@@ -1,6 +1,5 @@
 # TeraBox Downloader - Free Online Tool
 
-A fast, reliable, and completely free [TeraBox downloader](https://terabox-downloader.pro) that converts TeraBox sharing links into direct download links. No registration required, no app installation needed.
 
 ## 🚀 Features
 
