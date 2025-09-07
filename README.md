@@ -78,7 +78,7 @@ The application supports multiple languages through i18n:
 
 ## 📱 Responsive Design
 
-The TeraBox downloader is fully responsive and works seamlessly across all devices:
+Fully responsive and works seamlessly across all devices:
 - **Desktop**: Full-featured interface with optimal spacing
 - **Tablet**: Adapted layout for medium screens
 - **Mobile**: Touch-friendly interface with compact design
@@ -90,31 +90,6 @@ The TeraBox downloader is fully responsive and works seamlessly across all devic
 - **No Tracking**: We don't track your downloads or usage patterns
 - **HTTPS Only**: All communication is encrypted
 
-## ❓ Frequently Asked Questions
-
-### What is TeraBox Downloader?
-TeraBox Downloader is a free online tool that converts TeraBox sharing links into direct download links, allowing you to download files without needing a TeraBox account.
-
-### Is it really free?
-Yes, completely free with no hidden charges or subscription fees. You can use it unlimited times.
-
-### Do I need to create an account?
-No registration or account creation required. Just paste your link and download.
-
-### What file types are supported?
-All file types available on TeraBox including videos, documents, images, archives, and more.
-
-### Are there any download limits?
-No, there are no download limits or speed restrictions on our service.
-
-### Is my data safe?
-Yes, we don't store any of your files or personal information. All processing is done in real-time.
-
-### How fast is the download process?
-Links are generated instantly, usually within 2-3 seconds.
-
-### Does it work on mobile devices?
-Yes, the downloader is fully optimized for mobile devices and works in all modern browsers.
 
 
 ## 🔄 Updates & Changelog
